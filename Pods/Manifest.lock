@@ -1,0 +1,30 @@
+PODS:
+  - AARatingBar (0.1.0)
+  - Alamofire (4.5.0)
+  - GoogleMaps (2.4.0):
+    - GoogleMaps/Maps (= 2.4.0)
+  - GoogleMaps/Base (2.4.0)
+  - GoogleMaps/Maps (2.4.0):
+    - GoogleMaps/Base
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AARatingBar
+  - Alamofire (~> 4.4)
+  - GoogleMaps
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AARatingBar: dd2f4b489478f5206930bb5f8f67b4db476265c8
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  GoogleMaps: 8436ab5d1c25e36915b2f7416d0c8e3fa2e76c61
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 99257b24317b7bc9de510d9bf35223ad61934a5a
+
+COCOAPODS: 1.3.1
