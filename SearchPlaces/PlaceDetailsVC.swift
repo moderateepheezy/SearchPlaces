@@ -10,6 +10,13 @@ import UIKit
 import AARatingBar
 import GoogleMaps
 
+/**
+ ** TODOs:
+ ** 1: Fix short Scrolling issue review TableView
+ ** 2: Add an activity indicator
+ ** 3: Fix some issues with guard statement
+ **/
+
 class PlaceDetailsVC: UIViewController {
 
     var placeId: String?
